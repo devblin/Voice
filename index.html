@@ -30,6 +30,7 @@
     }
     boxSet = () => {
       let parentBody = $(".container-fluid");
+
       this.h = parentBody.innerHeight();
       this.w = parentBody.innerWidth();
       this.left = this.w / 2 - this.ref.innerHeight() / 2;
@@ -103,4 +104,8 @@
       newBox.boxSet();
     }
   };
+
+  $(window).resize(function() {
+    newBox.boxSet();
+  });
 </script>
