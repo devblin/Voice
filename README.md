@@ -8,12 +8,12 @@
 
 ##### Commands (Speech)
 
-##### [*] Start - To move in center
+* Start - To move in center
 
-##### [*] Left - To move left.
+* Left - To move left.
 
-##### [*] Right - To move right.
+* Right - To move right.
 
-##### [*] Down - To move down.
+* Down - To move down.
 
-##### [*] Up - To move up.
+* Up - To move up.
