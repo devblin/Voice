@@ -1,7 +1,7 @@
 # Voice
 
 #### How to Use:
-1. Go to [link](https://devblin.github.io/Voice/) to play with it.
+1. Go to [link](https://devblin.github.io/voice/) to play with it.
 2. Click on `start` to start mic.
 3. Clicking on `stop` switch-offs the mic.
 
